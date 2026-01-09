@@ -78,4 +78,4 @@ Thanks to our [ONC Certification Major Sponsors](https://www.open-emr.org/wiki/i
 
 [GNU GPL](LICENSE)
 
-![Architecture](Images/Logo R1 compressed.png)
+![Architecture](Images/pexels-mikhail-nilov-6963926.jpg.png)
