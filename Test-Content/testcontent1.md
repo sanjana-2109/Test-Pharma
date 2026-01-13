@@ -80,5 +80,5 @@ Thanks to our [ONC Certification Major Sponsors](https://www.open-emr.org/wiki/i
 
 ![Architecture](Images/pexels-mikhail-nilov-6963926.jpg)
 
-[Install Guide](Test-Content/testcontent.md)
+[Install Guide](./Test-Content/testcontent.md)
 
