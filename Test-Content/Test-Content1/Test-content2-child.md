@@ -60,4 +60,15 @@ Thanks to our [ONC Certification Major Sponsors](https://www.open-emr.org/wiki/i
 
 [TestContent](LICENSE)
 
-[Architecture](Test-Content/testcontent)
+[Test-content1-child](Test-Content/Test-Content1/Test-content1-child)
+
+[Test-content2-child](Test-Content/Test-Content1/Test-content2-child)
+
+[testcontent](Test-Content/testcontent)
+
+[testcontent1](Test-Content/testcontent1)
+
+[README](/README)
+
+[testcontent](../testcontent)
+
