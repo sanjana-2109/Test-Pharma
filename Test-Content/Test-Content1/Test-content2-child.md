@@ -72,6 +72,6 @@ Thanks to our [ONC Certification Major Sponsors](https://www.open-emr.org/wiki/i
 
 [testcontent](../testcontent)
 
-[Test-content1-child](/Test-Content1/Test-content1-child)
+[Test-content1-child](/Test-Content/Test-Content1/Test-content1-child)
 
 
